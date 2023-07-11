@@ -3,6 +3,6 @@
 Une jam bledi
 
 hobit e mija jan:
--a
--b
--c
+- a
+- b
+- c
